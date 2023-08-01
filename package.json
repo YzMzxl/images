@@ -1,0 +1,23 @@
+{
+  "name": "yzmzx-static",
+  "version": "1.0.0",
+  "description": "yzmzx static file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YzMzxl/yzmzx-static.git"
+  },
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "author": "yzmzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YzMzxl/yzmzx-static/issues"
+  },
+  "homepage": "https://github.com/YzMzxl/yzmzx-static#readme"
+}
