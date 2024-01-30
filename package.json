@@ -1,6 +1,6 @@
 {
   "name": "yzmzx-static",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "yzmzx static file",
   "main": "index.js",
   "scripts": {
